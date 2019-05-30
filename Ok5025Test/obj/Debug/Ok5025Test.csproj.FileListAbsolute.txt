@@ -1,0 +1,11 @@
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\My Framework\Ok5025Test\Ok5025Test\bin\Debug\Ok5025Test.exe.config
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\My Framework\Ok5025Test\Ok5025Test\bin\Debug\Ok5025Test.exe
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\My Framework\Ok5025Test\Ok5025Test\bin\Debug\Ok5025Test.pdb
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\My Framework\Ok5025Test\Ok5025Test\bin\Debug\JvlScard.dll
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\My Framework\Ok5025Test\Ok5025Test\bin\Debug\JvlScard.pdb
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\My Framework\Ok5025Test\Ok5025Test\obj\Debug\Ok5025Test.csprojResolveAssemblyReference.cache
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\My Framework\Ok5025Test\Ok5025Test\obj\Debug\Ok5025Test.exe
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\My Framework\Ok5025Test\Ok5025Test\obj\Debug\Ok5025Test.pdb
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\Ok5025Test\Ok5025Test\bin\Debug\Ok5025Test.exe.config
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\Ok5025Test\Ok5025Test\obj\Debug\Ok5025Test.exe
+C:\Users\JVillicana\Documents\Visual Studio 2013\Projects\Ok5025Test\Ok5025Test\obj\Debug\Ok5025Test.pdb
